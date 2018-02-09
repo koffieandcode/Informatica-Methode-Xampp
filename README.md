@@ -14,3 +14,5 @@ iedereen is welkom om mee te helpen, maar er zal niet betaald worden voor hulp t
 later wel mogelijk om crypto als compensatie te krijgen, maar dit is geen belofte!
 
 Koffie
+
+test
